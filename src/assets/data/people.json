@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Nikola Jokić",
+    "phone": "(720) 555-1212",
+    "address": {
+      "street": "2000 16th Street",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80202"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Jamal Murray",
+    "phone": "(303) 321-8765",
+    "address": {
+      "street": "2654 Washington Street",
+      "city": "Lakewood",
+      "state": "CO",
+      "zip": "80568"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Aaron Gordon",
+    "phone": "(303) 323-1233",
+    "address": {
+      "street": "46 Creekside Way",
+      "city": "Winter Park",
+      "state": "CO",
+      "zip": "80482"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Michael Porter Jr.",
+    "phone": "(720) 555-5678",
+    "address": {
+      "street": "3000 Walnut Street",
+      "city": "Boulder",
+      "state": "CO",
+      "zip": "80301"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Bruce Brown",
+    "phone": "(720) 555-7890",
+    "address": {
+      "street": "500 Cherry Creek Dr",
+      "city": "Aurora",
+      "state": "CO",
+      "zip": "80014"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Jeff Green",
+    "phone": "(720) 555-3456",
+    "address": {
+      "street": "6000 Golden Rd",
+      "city": "Golden",
+      "state": "CO",
+      "zip": "80401"
+    }
+  }
+]
